@@ -5,3 +5,4 @@
 * Tensorflow
 * Keras
 * Opencv-python
+* Scikit-learn
