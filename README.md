@@ -1,8 +1,7 @@
 # league-skin-predictor
 
 ## Requirements
-64-bit Miniconda Python 3.5 environment
-
+64-bit Miniconda Python 3.5 environment /n
 Tensorflow
 
 Keras
